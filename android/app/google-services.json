@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951375469025",
+    "project_id": "hwatodoappdemo",
+    "storage_bucket": "hwatodoappdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951375469025:android:827f04c86eb3dd6a985aa0",
+        "android_client_info": {
+          "package_name": "com.example.my_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qLi_OhJ3sJKOunE_pnVFwbvW8-SD91I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
